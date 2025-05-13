@@ -6,7 +6,7 @@ A full-stack **MERN** Job Portal web application where users can register, post,
 
 ## 🔗 Live Demo
 
-> (https://vercel.com/)
+> (https://jobportal-wine-two.vercel.app/)
 
 ---
 
@@ -16,7 +16,7 @@ A full-stack **MERN** Job Portal web application where users can register, post,
 - React.js
 - Axios
 - React Router
-- Tailwind CSS / Bootstrap (choose one)
+- Tailwind CSS
 - Vite (for faster build)
 
 ### 🔹 Backend
